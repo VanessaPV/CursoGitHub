@@ -1,0 +1,8 @@
+## Notas de aula ref git e GitHub
+
+### nota 1
+git status - verificando os status no dos arquivos e pastas dentro do repositório
+git add . - adiciona todos os arquivos para a esteira de commit
+git add nomeArquivo - adiciona um arquivo específico.
+### nota 2
+git commit -m " "  - informa quem e o que modificou no arquivo.
