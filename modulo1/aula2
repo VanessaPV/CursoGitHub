@@ -6,3 +6,5 @@ git add . - adiciona todos os arquivos para a esteira de commit
 git add nomeArquivo - adiciona um arquivo específico.
 ### nota 2
 git commit -m " "  - informa quem e o que modificou no arquivo.
+### nota 3
+git push - envia os arquivos para o gitHub
